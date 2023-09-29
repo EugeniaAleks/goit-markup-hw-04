@@ -391,7 +391,7 @@ a {
 }
 
 .portfolio-item:hover .portfolio-overlay {
-  transform: translateY(0);
+  transform: translateY(0%);
 }
 
 .portfolio-wraper {
