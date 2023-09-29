@@ -274,6 +274,7 @@ a {
   justify-content: center;
   margin-bottom: 8px;
   padding: 24px 100px;
+  height: 112px;
   background-color: var(--secondary-bg-color);
   border: 1px solid var(--secondary-border-color);
   border-radius: 4px;
@@ -333,6 +334,8 @@ a {
 
 .team-social-link {
   display: flex;
+  align-items: center;
+  justify-content: center;
   padding: 12px;
   border-radius: 50%;
   background-color: var(--accent-color);
@@ -342,7 +345,7 @@ a {
 
 .team-social-link:hover,
 .team-social-link:focus {
-  background-color: var(--hover-color);
+  background-color: var(--active-color);
 }
 
 /* ====================== portfolio ================== */
