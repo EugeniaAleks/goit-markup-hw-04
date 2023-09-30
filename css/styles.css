@@ -450,7 +450,7 @@ a {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.09em;
+  letter-spacing: 0.02em;
   text-transform: none;
   color: var(--dark-bg-text-color);
 }
